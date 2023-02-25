@@ -1,1 +1,3 @@
-# MySchoologyWrap
+# MySchoologyMod
+
+{"color":{"custom":{"background":"#212121","border":"#ffffff","hover":"#b193c8","link":"#e0b8ff","primary":"#212121"},"modern":{"calendar":["#457da5","#547c41","#926c37","#7c3d6b","#0b4c9c","#00209c","#004a09","#72721a","#44233e","#683131","#770a0a","#a72413","#e0024c","#188c16","#bd7304","#80168c","#164152","#00543f","#633e11","#461b2d","#00427c","#603073","#8b1941","#970c0c","#9c3b07","#685203","#2a5f16","#09584f","#005a75","#4d5557"],"dark":false,"interface":{"accent":"#2f3136","active":"rgba(116, 0, 255, 0.1)","border":"#8e7cc3","error":"#dd7e6b","grades":"#93c47d","highlight":"rgba(253, 255, 165, 0.59)","input":"#40444b","primary":"#8e7cc3","secondary":"#212121"},"options":{"borderRadius":10,"borderSize":1,"padding":11},"text":{"contrast":"#eeeeee","muted":"#777777","primary":"#dcddde"}}},"logo":{"url":"https://i.imgur.com/LndgZD0.png"},"name":"D Schoology","version":2}
